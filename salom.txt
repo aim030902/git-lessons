@@ -1,1 +1,2 @@
 Salom bu mening birinchi git darsim
+Bugun Git va Githubni o'rgandim

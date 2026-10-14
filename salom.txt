@@ -3,4 +3,4 @@ Bugun Git va Githubni o'rgandim
 Bugun git pushda authentication haqida o'rgandim
 Shunchaki test qildik
 Git pull uchun qo'shildi qator1
-Git pull uchun qo'shildi qator2
+Git pull uchun qo'shildi qator3

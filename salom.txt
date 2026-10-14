@@ -1,3 +1,4 @@
 Salom bu mening birinchi git darsim
 Bugun Git va Githubni o'rgandim
 Bugun git pushda authentication haqida o'rgandim
+Shunchaki test qildik
